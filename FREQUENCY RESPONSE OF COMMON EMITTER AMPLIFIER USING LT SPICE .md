@@ -24,16 +24,23 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
+## Tabulation
+![WhatsApp Image 2026-03-30 at 12 54 33 PM](https://github.com/user-attachments/assets/0548ccb7-4d69-46bd-b571-bc0840e3970e)
+
+
+![WhatsApp Image 2026-03-30 at 12 55 02 PM](https://github.com/user-attachments/assets/21145750-2600-49d4-833c-bbf7981600ee)
+
+
 
 
 ## Graph
-<img width="1528" height="685" alt="WhatsApp Image 2026-05-14 at 20 41 38" src="https://github.com/user-attachments/assets/fa82eb20-638d-4491-bccf-e5c59b6abba6" />
+
+![WhatsApp Image 2026-03-30 at 1 11 34 PM](https://github.com/user-attachments/assets/726a3690-6a17-4606-a359-59d6c0fc09fd)
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
-68db
-**BANDWIDTH =**
-69.9MHz
+**VOLTAGE GAIN =8.9dB
+
+**BANDWIDTH =100khz
